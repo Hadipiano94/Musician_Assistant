@@ -1,0 +1,2 @@
+Python requirements: Nothing out of Python built-in libraries is needed.
+Windows requirements: 64-bit Windows 10 or upper

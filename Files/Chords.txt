@@ -1,0 +1,15 @@
+Chord type:           Intervals:        Consonance:
+major                 (0,4,7)           10
+minor                 (0,3,7)           9
+dim                   (0,3,6)           4
+aug                   (0,4,8)           3
+dominant_7            (0,4,7,10)        8
+minor_7               (0,3,7,10)        7
+dim_7                 (0,3,6,9)         4
+halfdim_7             (0,3,6,10)        3
+major_7               (0,4,7,11)        6
+minmaj_7              (0,3,7,11)        3
+aug_7                 (0,4,8,10)        1
+dimmaj_7              (0,3,6,11)        1
+dominantflat5_7       (0,4,6,10)        0
+majorflat5_7          (0,4,6,11)        0
