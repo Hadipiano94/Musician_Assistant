@@ -8,3 +8,5 @@ app interface:
 result window:
 
 <img src="result.PNG">
+
+i've also included the sasana.exe, the installing file
